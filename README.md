@@ -253,6 +253,21 @@ spikes = np.diff(level_idx)  # Non-zero = crossing event
 
 ---
 
+##  Contact
+
+<div align="center">
+
+| Name | Role | Email |
+|:---|:---|:---|
+| **Deshwan TD** | Author | [deshwan.25boe10077@vitbhopal.ac.in](mailto:deshwan.25boe10077@vitbhopal.ac.in) |
+| **Kowshik R** | Collaborator | [kowshik.25mim10158@vitbhopal.ac.in](mailto:kowshik.25mim10158@vitbhopal.ac.in) |
+
+</div>
+
+Feel free to reach out for questions, collaborations, or feedback on the project!
+
+---
+
 ##  License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
